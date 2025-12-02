@@ -37,7 +37,7 @@ The exercise is fitting for the tools involved and more in the greater developer
 - [Whzan Swagger Docs API](https://api.myplay360studio.co.za/swagger/index.html) - hosted on my personal AWS secure url
 - [Whzan App - web app hosted on AWS S3 bucket & Cloudfront](https://d26jd7lozgfhgl.cloudfront.net/) - Give the app a spin on this secure web app
 
-Both resources will be expired 1 month from `02 Dec 2025`
+All the above resources will be expired 1 month from `02 Dec 2025`
 
 ---
 
