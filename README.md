@@ -1,4 +1,10 @@
-# Whzan Catalog frontend for WHZAN Catalog Explorer App
+# WHZAN Catalog Explorer App
+
+Front-end for the backend in repo below:
+
+```bash
+https://github.com/Yenzokuhle/whzan-api
+```
 
 React typescript on Vite.
 
