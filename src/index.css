@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-roboto: "Roboto", "sans-serif";
+  --color-whzan-primary: #101042;
+  --color-whzan-secondary: #73eead;
+  --color-whzan-accent: #eb5362;
+  --color-whzan-blue: #73a9d7;
+  --color-whzan-orange: #ea9836;
+}
+
+@theme {
+  --breakpoint-*: initial;
+}
+
+/* Desktop first breakponts */
+@custom-variant dXL (@media (max-width: 1920px));
+@custom-variant dLG (@media (max-width: 1600px));
+@custom-variant dMD (@media (max-width: 1400px));
+@custom-variant dXS (@media (max-width: 1200px));
+@custom-variant tLG (@media (max-width: 1024px));
+@custom-variant tMD (@media (max-width: 938px));
+@custom-variant tSM (@media (max-width: 768px));
+@custom-variant tSM2 (@media (max-width: 612px));
+@custom-variant mLG (@media (max-width: 512px));
+@custom-variant mMD (@media (max-width: 414px));
+@custom-variant mSM (@media (max-width: 375px));
+@custom-variant mXS (@media (max-width: 312px));
