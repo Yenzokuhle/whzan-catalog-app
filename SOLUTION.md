@@ -33,6 +33,7 @@ The exercise is fitting for the tools involved and more in the greater developer
 
 ### Final output:
 
+- [AdobeXD designs of the solution](https://xd.adobe.com/view/2cbe9317-136b-4895-8c1d-c20792df7c39-79ed/) - hosted on my personal secure url
 - [Whzan Swagger Docs API](https://api.myplay360studio.co.za/swagger/index.html) - hosted on my personal secure url
 - [Whzan App - web app hosted on AWS S3 bucket & Cloudfront](https://d26jd7lozgfhgl.cloudfront.net/) - Give the app a spin on this securely web app
 
